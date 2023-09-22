@@ -26,3 +26,8 @@ Quand on envoie un paquet celui ci à différentes trâces, l'adresse IP du clie
 Quand le server renvoie les paquets il exécute la même actions avec les même routeurs. 
 
 ![HowInternetWork](https://mocomi.com/wp-content/uploads/2016/10/MOC_GIFO_INTERNET1.gif)
+
+Thomas Syben 22/09/2023 - BeCode Bruxelles
+
+Visisted By Thomas Syben, Nothing to change that's my the author ^^'
+this theory file has been reviewed by Thomas Syben
