@@ -1,6 +1,6 @@
 # INTERNET
 
-## Definition
+## Définition
 Internet est un réseau de cables sur lequels des ordinateurs (clients) / servers peuvent se connectés.
 
 Un server c'est : 
@@ -9,7 +9,7 @@ Un server c'est :
 
 **ATTENTION**
 La différence entre un server et un client (votre ordinateur) est qu'il nécessite un fourniseur de service Internet pour pouvoir se connecter à celui ci.
-*exemple VOO, Proximus, Orange*
+*Exemple: VOO, Proximus, Orange*
 
 Graçe à cette liaison l'ordinateur peut se fréer un chemin à travers internet pour rejoidre le server cible (site web).
 
@@ -23,4 +23,6 @@ Ils permettent de dirigés nos paquets vers la bonne direction.
 
 
 Quand on envoie un paquet celui ci à différentes trâces, l'adresse IP du client mais aussi celle de tout les routeurs par laquel il passe.
-Quand le server renvoie les paquets il exécute la même actions avec les même rooteurs 
+Quand le server renvoie les paquets il exécute la même actions avec les même routeurs. 
+
+![HowInternetWork](https://mocomi.com/wp-content/uploads/2016/10/MOC_GIFO_INTERNET1.gif)
